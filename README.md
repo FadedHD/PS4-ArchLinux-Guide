@@ -21,6 +21,8 @@ A Guide to Building Your Own PS4 ArchLinux Distribution :3
 | Garuda Linux | [**Download** ](https://garudalinux.org/downloads)
 | EndeavourOS | [**Download** ](https://endeavouros.com) |
 
+If you use another Arch-based distribution, you can use that as well.
+
 ### Kernel.
 
 | PS4       | Kernel     |
