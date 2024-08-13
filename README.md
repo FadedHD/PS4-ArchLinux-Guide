@@ -11,9 +11,9 @@ A Guide to Building Your Own PS4 ArchLinux Distribution :3
 
 # What you need.
 
-## OS of your choice.
+## Distribution of your choice.
 
-| Arch Based Distributions | Link     |
+| Arch Based Distributions | Link |
 |--------------|-----------|
 | ArchLinux | [Download](https://archlinux.org/download/)
 | Hippie68 | [**GitHub** ](https://github.com/hippie68/psxitarch-how-to/releases/tag/v1.00)
