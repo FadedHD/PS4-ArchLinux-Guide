@@ -4,7 +4,7 @@
 PS4 ArchLinux Guide
 </h1>
 <h2 align="center">
-A Guide to Building Your Own PS4 ArchLinux Distro :3
+A Guide to Building Your Own PS4 ArchLinux Distribution :3
 </h2>
 
 ------
@@ -12,6 +12,12 @@ A Guide to Building Your Own PS4 ArchLinux Distro :3
 # What you need.
 
 ## Files.
+
+| Arch Based Distribution | Link     |
+|--------------|-----------|
+| [Psxita](https://www.psxita.it)  | [**MEGA**](https://mega.nz/file/IUBDiQKY#7WK2zFkUQbqJ02b9LTSAGug3NiL_8XPhprLcqVcfXxQ)
+| [Hippie68](https://github.com/hippie68) | [**GitHub** ](https://github.com/hippie68/psxitarch-how-to/releases/tag/v1.00)
+| [Nazky](https://twitter.com/NazkyYT) | [**MEGA**](https://mega.nz/file/E0wW3a6Y#IE9fvrjZ22Q2mJ6kM1uQaNctwj1-we4cV7xGqPBVV64) |
 
 ### Kernel.
 
