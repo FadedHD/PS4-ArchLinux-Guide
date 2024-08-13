@@ -1,4 +1,4 @@
-<p align="center"><img src="https://fadedhd.xyz/IMG/Github/PS4-ArchLinux-Guide.png"...></p>
+<p align="center"><img src="https://fadedhd.xyz/IMG/Github/PS4-ArchLinux-Guide-small.png"...></p>
 
 <h1 align="center">
 PS4 ArchLinux Guide
