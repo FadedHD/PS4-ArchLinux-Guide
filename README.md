@@ -18,8 +18,7 @@ A Guide to Building Your Own PS4 ArchLinux Distribution :3
 | ArchLinux | [**Download**](https://archlinux.org/download/)
 | ArcoLinux | [**Download** ](https://www.arcolinux.info/downloads/)
 | Manjaro | [**Download** ](https://manjaro.org/products/download/x86)
-| EndeavourOS | [**Download** ](https://endeavouros.com)
-| [Nazky](https://twitter.com/NazkyYT) | [**MEGA**](https://mega.nz/file/E0wW3a6Y#IE9fvrjZ22Q2mJ6kM1uQaNctwj1-we4cV7xGqPBVV64) |
+| EndeavourOS | [**Download** ](https://endeavouros.com) |
 
 ### Kernel.
 
