@@ -6,3 +6,11 @@ PS4 ArchLinux Guide
 <h2 align="center">
 A Guide to Building Your Own PS4 ArchLinux Distro :3
 </h2>
+
+------
+
+# What you need.
+
+## Files.
+
+### Kernel.
