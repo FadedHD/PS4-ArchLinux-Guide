@@ -1,4 +1,4 @@
-<p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e8/Archlinux-logo-standard-version.png"...></p>
+<p align="center"><img src="https://fadedhd.xyz/IMG/Github/PS4-ArchLinux-Guide.png"...></p>
 
 <h1 align="center">
 PS4 ArchLinux Guide
