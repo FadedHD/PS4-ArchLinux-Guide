@@ -31,14 +31,3 @@ Aeolia, Belize and Baikal are based on the you'r PS4 model take a look [here](ht
 | [Hippie68](https://github.com/hippie68) | [**GitHub** ](https://github.com/hippie68/psxitarch-how-to/releases/tag/v1.00)
 | [Nazky](https://twitter.com/NazkyYT) | [**MEGA**](https://mega.nz/file/E0wW3a6Y#IE9fvrjZ22Q2mJ6kM1uQaNctwj1-we4cV7xGqPBVV64) |
 
-## Linux Distrubution.
-
-### Prefab.
-
-| Author       | OS     |
-|--------------|-----------|
-| [Psxita](https://www.psxita.it) | [**Psxitarch**](https://www.psxita.it/distro/psxitarch.tar.xz)|
-| [Mircoho](https://github.com/ps4gentoo)| [**Gentoo**](https://drive.google.com/uc?id=1o5zYErfHAeZnOR1beeN4syeuKW77VDjA&export=download) |
-| [ItMania](https://www.youtube.com/channel/UCkVRqtCIS3Xj-E1HY4j9_EA)  | [**Fedora 32 Tron Edition**](https://drive.google.com/file/d/1bwTtP8mzlAp_mDbS1EnaMfpWrZ7gC4HV/view)
-| [Modded Warfare](https://www.youtube.com/channel/UCm9COMxXKm05BQWNv-IpyPg) | [**Fedora 32** ](https://anonfiles.com/Tdi5B458x6/PS4_Fedora32_MW_Itm.tar_xz)
-| [Nazky](https://twitter.com/NazkyYT) | [**CuteFish OS**](https://mega.nz/file/lhhFCAzK#IMCOCXHihX49zjOr6_tWVXeRZehI89o4HNTUASKLsJE) |
